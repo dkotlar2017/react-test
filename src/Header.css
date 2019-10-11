@@ -1,0 +1,23 @@
+.Header-container {
+  padding: 20px;
+  display: flex;
+  background-color: #61dafb;
+  font-weight: 600;
+
+  flex-flow: row;
+  align-content: stretch;
+}
+
+.Header-title {
+  font-size: 20px;
+  flex-grow: 9;
+  text-align: left;
+}
+
+.Header-logo {
+  display: block;
+  height: 40px;
+  margin: 0 20px;
+}
+.Header-count {
+}
